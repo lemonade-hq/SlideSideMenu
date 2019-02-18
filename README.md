@@ -1,25 +1,25 @@
-#SlideSideMenu for Android
+# SlideSideMenu for Android
 
 A layout widget for a sliding side menu.
 
-##Features
+## Features
 
  - Sleek slide menu animation 
  - Use in xml
  - Customize animation
  - Easy to use
 
-##Demo
+## Demo
 
 ![](screens/demo.gif)
 
-##Import
+## Import
 
  ```xml
     Coming Soon... (Please clone for now)
  ```
 
-##Usage
+## Usage
 
 For basic usage, simply add to layout xml:
 
